@@ -7,7 +7,7 @@ eTagger is a Chrome extension that labels GitHub issues from Android project rep
 Have [Python 3.x](https://www.python.org/downloads/) installed in your system.
 
 Steps to run
-1. Clone the repository using ```git clone https://github.com/rishalab/eTagger.git```
+1. Clone the repository using ```git clone https://github.com/piyushhingu/eTagger.git```
 2. Navigate to the **backend** folder and run ```pip3 install requirements.txt```
 3. To start the server, use the command ```python backend.py```
 4. Load the extension** directory in devloper mode. [Instructions for loading](https://developer.chrome.com/docs/extensions/mv3/getstarted/).
